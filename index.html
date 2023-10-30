@@ -32,38 +32,57 @@
         .full-width-box {
             width: 100%;
             padding: 20px;
-            border: 1px solid #d7cd16;
+            border: 1px solid rgb(23, 0, 128);
             box-sizing: border-box;
             margin-top: 20px;
             margin-right: 20px;
-
-            background-color: #d7cd16;
+            background-color: rgb(23, 0, 128);
             color: white;
-            text-align: center;
         }
 
         .half-width-box {
             flex-basis: calc(50% - 20px);
             box-sizing: border-box;
             padding: 20px;
-            border: 1px solid #d7cd16;
+            border: 1px solid rgb(23, 0, 128);
             margin-top: 20px;
-            background-color: #d7cd16;
+            background-color: rgb(23, 0, 128);
             color: white;
-            text-align: center;
         }
 
         .box h2 {
             margin: 0;
+            text-align: left;
+
         }
 
         .box p {
             margin: 0;
+            text-align: left;
+
+        }
+
+        .centered-header {
+            text-align: center;
+
         }
 
         .half-width-box:last-child {
             margin-left: 20px;
+        }
 
+        .box-header {
+            font-size: 48px;
+            font-weight: bold;
+            color: blue;
+            margin-top: 20px;
+            text-align: center;
+
+        }
+
+        .box-image {
+            margin-top: 20px;
+            text-align: center;
         }
     </style>
 </head>
@@ -76,17 +95,34 @@
         <img src="images/1200.jpeg" alt="Brickshire Image"
             style="display: block; margin: 0 auto; width: 50%; height: auto;">
         <div class="full-width-box">
-            <h2>About Us</h2>
-            <p>Needs Meeting</p>
+            <h2 class="centered-header">About Us</h2>
+            <p> We are a great group of guys and gals that love the game of golf. Each week a different game is played.
+                These games can consist of straight score, partner
+                best ball, 4 man scramble, and many more. You must have a handicap before joining the leauge. This makes
+                it fair for all expeirence levels of golf. Each week a player will put $7 dollars into the pot with the
+                potential to win a lot more. We average anywhere between 10 and 40 golfers each week. The leauge will
+                occasionally play other course leagues, home and away. Towards the begging of fall we hold our annual
+                Brickshire Cup! We are always
+                welcome to new members. If intrested please contact us. </p>
         </div>
         <div class="half-width-box">
-            <h2>Contact</h2>
-            <p>Contact info goes here</p>
+            <h2 class="centered-header">Contact</h2>
+            <p>Email:</p>
+            <p>rramjohnson@cox.net</p>
+            <p>kent.bradshaw.001@gmail.com</p>
         </div>
         <div class="half-width-box">
-            <h2>When Do We Meet?</h2>
-            <p>Meeting info goes here</p>
+            <h2 class="centered-header">When Do We Meet?</h2>
+            <p>Tee tiems usually beging for the group around 8:00 am. They are usually in shotgun fashion to keep the
+                pace of play. Most memebers arrive around 7:00 am at Brickshire Golf Course to hit the range and prepare
+                for that days round.</p>
+            <p>Address:</p>
+            <p>5520 Virginia Park Dr, Providence Forge, VA 2314</p>
         </div>
+    </div>
+    <div class="box-header">Our League!</div>
+    <div class="box-image">
+        <img src="images/IMG_9402.jpg" alt="League Image" style="width: 70%; height: auto;">
     </div>
 </body>
 
