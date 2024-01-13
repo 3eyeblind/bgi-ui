@@ -1,278 +1,186 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brickshire Golf Leagues</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+
     <style>
-        body {
-            background-image: url("images/background-bright-close-up-413195small.jpg");
-            background-size: cover;
-            background-repeat: no-repeat;
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-        }
-
-        header {
-            background-color: rgb(23, 0, 128);
+        .btn {
+            background-color: #000000;
+            border: none;
             color: white;
-            padding: 20px;
-            text-align: left;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
         }
 
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: white;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+        .background-row {
+            background: url('images/1200.jpeg') no-repeat center center fixed;
+            background-size: cover;
+            color: rgb(0, 0, 0);
+            /* Set text color to black or any other color you prefer */
+
+            /* Add margin to the bottom of the row */
+            padding: 120px;
+            /* Add padding to the row for spacing */
+        }
+
+        .row h2 {
+            padding: 30px;
 
         }
+
+        .row p2 {
+            padding: 30px;
+
+        }
+
+        .row h3 {
+            padding: 30px;
+
+        }
+
+        .row p3 {
+            padding: 10px;
+
+        }
+
+        /* .row p4 {
+            padding: 10px;
+
+        }
+
+        .row p5 {
+            padding: 10px;
+
+        } */
 
         .jumbotron h1 {
-            font-size: 60px;
-            font-weight: bold;
-            color: blue;
-            margin-top: 20px;
-            font-family: cursive;
+            font-size: 2.5em;
+            /* Increase the font size for the heading */
         }
 
-
-        .full-width-box {
-            width: 100%;
-            padding: 20px;
-            border: 1px solid rgb(23, 0, 128);
-            box-sizing: border-box;
-            margin-top: 20px;
-            margin-right: 20px;
-            background-color: rgb(23, 0, 128);
-            color: white;
-        }
-
-        .half-width-box {
-            flex-basis: calc(50% - 20px);
-            box-sizing: border-box;
-            padding: 20px;
-            border: 1px solid rgb(23, 0, 128);
-            margin-top: 20px;
-            background-color: rgb(23, 0, 128);
-            color: white;
-        }
-
-        .box h2 {
-            margin: 0;
-            text-align: left;
-        }
-
-        .box p {
-            margin: 0;
-            text-align: left;
-        }
-
-        .centered-header {
-            text-align: center;
-        }
-
-        .half-width-box:last-child {
-            margin-left: 20px;
-        }
-
-        .box-header {
-            font-size: 48px;
-            font-weight: bold;
-            color: blue;
-            margin-top: 20px;
-            text-align: center;
-        }
-
-        .box-image {
-            margin-top: 20px;
-            text-align: center;
+        .jumbotron p1 {
+            font-family: monospace;
+            /* Change the font family to monospace */
+            font-size: 1.5em;
+            /* Increase the font size for the text */
+            margin-bottom: 20px;
+            /* Add margin to the bottom of the text */
         }
     </style>
+
+
 </head>
 
+
+
+
 <body>
-    <header>
-        <img src="images/unnamed.png" alt="Header Image"
-            style="display: block; margin: 0 auto; width: 7%; height: auto;">
-    </header>
-    <div class="container">
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">BMGL</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="blog.html">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="media.html">Media</a>
+                    </li>
+
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <!-- content -->
+
+    <div class="background-row">
         <div class="jumbotron">
-            <h1 class="display-4">Brickshire Golf Leagues</h1>
-            <p class="lead">We are a great group of guys and gals that love the game of golf. Each week a different game
+            <h1 style="color:rgb(255, 255, 255)">Brickshire Golf Leagues</h1>
+            <p1 style="color:rgb(255, 255, 255)">We are a great group of guys and gals that love the game of golf. Each
+                week a
+                different
+                game
                 is played.
                 These games can consist of straight score, partner
-                best ball, 4 man scramble, and many more. You must have a handicap before joining the league. This makes
-                it fair for all experience levels of golf. Each week a player will put $7 dollars into the pot with the
-                potential to win a lot more. We average anywhere between 10 and 40 golfers each week. The league will
-                occasionally play other course leagues, home and away. Towards the beginning of fall, we hold our annual
+                best ball, 4 man scramble, and many more. You must have a handicap before joining the league.
+                This
+                makes
+                it fair for all experience levels of golf. Each week a player will put $7 dollars into the pot
+                with
+                the
+                potential to win a lot more. We average anywhere between 10 and 40 golfers each week. The league
+                will
+                occasionally play other course leagues, home and away. Towards the beginning of fall, we hold
+                our
+                annual
                 Brickshire Cup! We are always
-                welcome to new members. If interested please contact us.</p>
-            <hr class="my-4">
-        </div>
-        <div class="box-image">
-            <img src="images/1200.jpeg" alt="Brickshire Image" style="width: 50%; height: auto;">
-        </div>
-        <div class="container">
-            <div class="half-width-box">
-                <h2 class="centered-header">Contact</h2>
-                <p>Email:</p>
-                <p>rramjohnson@cox.net</p>
-                <p>kent.bradshaw.001@gmail.com</p>
-            </div>
-            <div class="half-width-box">
-                <h2 class="centered-header">When Do We Meet?</h2>
-                <p>Tee times usually begin for the group around 8:00 am. They are usually in shotgun fashion to keep the
-                    pace of play. Most members arrive around 7:00 am at Brickshire Golf Course to hit the range and
-                    prepare
-                    for that day's round.</p>
-                <p>Address:</p>
-                <p>5520 Virginia Park Dr, Providence Forge, VA 2314</p>
-            </div>
-        </div>
-        <div class="box-header">Our League!</div>
-        <div class="box-image">
-            <img src="images/IMG_9402.jpg" alt="League Image" style="width: 50%; height: auto;">
+                welcome to new members. If interested please contact us.</p1>
+
+            <!-- <div class="col-md mx-auto text-center">
+                <img src="images/1200.jpeg" alt="Golf Image" width="600" height="500">
+            </div> -->
+
+            <!-- <hr class="my-4"> -->
+
         </div>
     </div>
+
+    <!-- <a href="mailto:rramjohnson@cox.net;kent.bradshaw.001@gmail.com">Send email</a> -->
+
+    <div class="row">
+
+        <div class="col-sm-4"> </div>
+        <div class="col-sm-4 text-center">
+            <h2 class="centered-header">Want to Join?</h2>
+
+            <p2> <a class="btn" href="mailto:rramjohnson@cox.net;kent.bradshaw.001@gmail.com">
+                    Contact </a>
+            </p2>
+
+        </div>
+        <div class="col-sm-4"> </div>
+
+        <div class="row">
+            <div class="col-sm-4"> </div>
+            <div class="col-sm-4 text-center">
+                <h3 class="centered-header">When Do We Meet?</h3>
+                <p3>Tee times usually begin for the group around 8:00 am. They are usually in shotgun fashion to keep
+                    the pace of play. Most members arrive around 7:00 am at Brickshire Golf Course to hit the range
+                    and prepare for that day's round.</p3>
+                <p4>Address:</p4>
+                <p5><a
+                        href="https://www.google.com/maps/search/?api=1&5520 Virginia Park Dr, Providence Forge, VA 23140">5520
+                        Virginia Park Dr, Providence Forge, VA 23140</a></p>
+            </div>
+            <div class="col-sm-4"> </div>
+        </div>
+
+
+
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+            crossorigin="anonymous"></script>
 </body>
 
 </html>
-
-
-
-
-<!-- <!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brickshire Golf Leagues</title>
-    <style>
-        body {
-            background-color: rgb(246, 246, 246);
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-        }
-
-        header {
-            background-color: rgb(23, 0, 128);
-            color: white;
-            padding: 20px;
-            text-align: left;
-        }
-
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: white;
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        .full-width-box {
-            width: 100%;
-            padding: 20px;
-            border: 1px solid rgb(23, 0, 128);
-            box-sizing: border-box;
-            margin-top: 20px;
-            margin-right: 20px;
-            background-color: rgb(23, 0, 128);
-            color: white;
-        }
-
-        .half-width-box {
-            flex-basis: calc(50% - 20px);
-            box-sizing: border-box;
-            padding: 20px;
-            border: 1px solid rgb(23, 0, 128);
-            margin-top: 20px;
-            background-color: rgb(23, 0, 128);
-            color: white;
-        }
-
-        .box h2 {
-            margin: 0;
-            text-align: left;
-
-        }
-
-        .box p {
-            margin: 0;
-            text-align: left;
-
-        }
-
-        .centered-header {
-            text-align: center;
-
-        }
-
-        .half-width-box:last-child {
-            margin-left: 20px;
-        }
-
-        .box-header {
-            font-size: 48px;
-            font-weight: bold;
-            color: blue;
-            margin-top: 20px;
-            text-align: center;
-
-        }
-
-        .box-image {
-            margin-top: 20px;
-            text-align: center;
-        }
-    </style>
-</head>
-
-<body>
-    <header>
-        <h1>Brickshire Golf Leagues</h1>
-    </header>
-    <div class="container">
-        <img src="images/1200.jpeg" alt="Brickshire Image"
-            style="display: block; margin: 0 auto; width: 50%; height: auto;">
-        <div class="full-width-box">
-            <h2 class="centered-header">About Us</h2>
-            <p> We are a great group of guys and gals that love the game of golf. Each week a different game is played.
-                These games can consist of straight score, partner
-                best ball, 4 man scramble, and many more. You must have a handicap before joining the leauge. This makes
-                it fair for all expeirence levels of golf. Each week a player will put $7 dollars into the pot with the
-                potential to win a lot more. We average anywhere between 10 and 40 golfers each week. The leauge will
-                occasionally play other course leagues, home and away. Towards the begging of fall we hold our annual
-                Brickshire Cup! We are always
-                welcome to new members. If intrested please contact us. </p>
-        </div>
-        <div class="half-width-box">
-            <h2 class="centered-header">Contact</h2>
-            <p>Email:</p>
-            <p>rramjohnson@cox.net</p>
-            <p>kent.bradshaw.001@gmail.com</p>
-        </div>
-        <div class="half-width-box">
-            <h2 class="centered-header">When Do We Meet?</h2>
-            <p>Tee tiems usually beging for the group around 8:00 am. They are usually in shotgun fashion to keep the
-                pace of play. Most memebers arrive around 7:00 am at Brickshire Golf Course to hit the range and prepare
-                for that days round.</p>
-            <p>Address:</p>
-            <p>5520 Virginia Park Dr, Providence Forge, VA 2314</p>
-        </div>
-    </div>
-    <div class="box-header">Our League!</div>
-    <div class="box-image">
-        <img src="images/IMG_9402.jpg" alt="League Image" style="width: 70%; height: auto;">
-    </div>
-</body>
-
-</html> -->
