@@ -79,5 +79,6 @@ function getRandomInt(max) {
     return Math.floor(Math.random() * max);
 }
 
-domq = document.getElementById("qdiv");
-domq.innerHTML = quotes[getRandomInt(quotes.length - 1)]
+let domq = document.getElementById("qdiv");
+domq.innerHTML = quotes[getRandomInt(quotes.length - 1)];
+
