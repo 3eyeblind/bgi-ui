@@ -1,0 +1,783 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ICALENDAR-RS
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240309T083000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: DUST THE RUST- 2 MAN BEST BALL
+URL:https://www.brickshiregolfleagues.com
+UID:5537ee68-d926-4bcc-93a0-5cf28b7e9489
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:a1c127f3-3269-48a1-b129-1e76c3893997
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240316T083000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:4f63f4f2-32e3-44f4-a591-04d94c9a7b1b
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:d4f1dd96-83fc-42f3-b04e-8f39bb7b309e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240330T083000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:747182e7-4b02-471d-8297-28b73d43e52b
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:ab18f9ea-5387-4dca-8ceb-42bdd772d8c2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240406T073000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD- EARLY START 7:30AM
+URL:https://www.brickshiregolfleagues.com
+UID:4e6cf5c0-025b-449f-b40f-aa191695d109
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:5b3ff1a6-bf88-4570-9315-b52ab1dceb19
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $10.00. \nTEE-TYPE
+ : Shotgun
+DTSTART;TZID=America/New_York:20240413T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: *SC* MASTERS- Individual Net Flighted-MAJOR
+URL:https://www.brickshiregolfleagues.com
+UID:d5e7cb92-03d4-44d6-a964-75b579281c56
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:2ff14401-3ab1-4f5a-8847-2fddac828fd2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $0.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240416T120000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: BMGL-BLGA DIVOT DAY- LAST AERATION DAY
+URL:https://www.brickshiregolfleagues.com
+UID:b5f21ccd-9184-42e9-b607-11b32b948fab
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:bd1de04d-b33a-4872-a87f-3dc6eed6264a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240420T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:72644f3b-377a-4488-87a3-cf783c5b1c56
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:ec9a708c-3a55-4ab0-a655-da831c449ac2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240427T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:201314d2-34d1-48f0-ab45-80386b7a2812
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:e039cb18-258b-4364-bdac-aacb009d167c
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240504T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:d89d19d0-5ebe-467d-89ac-2166a1c15d76
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:da9592e2-dbd0-4874-9836-fb370daa13fb
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $30/Team. \nTEE-TYP
+ E: Tee Times
+DTSTART;TZID=America/New_York:20240511T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: *SC* 2 Man Club Championship Qualifier (2 Man BB)-MAJOR
+URL:https://www.brickshiregolfleagues.com
+UID:a7783c4d-f570-4b81-b514-7d41416779ec
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:3140fd06-1650-4748-bf8a-bc04812e95f1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240525T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:3c45acb3-ce4f-43e9-b017-49b9a3f5d5f2
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:b5e33a16-4ccc-4325-9d07-840e7cff895e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240601T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:98f14e47-09c9-4b87-b88b-abba40245207
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:de6cdc62-a622-4919-99c1-832be82c5c20
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240608T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: 4 Man Colored Ball
+URL:https://www.brickshiregolfleagues.com
+UID:e5b8008b-7433-4d43-a8cb-a2f97b9b8291
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:f38fbdf8-9181-4e4a-94f4-53218cf516f7
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $10.00. \nTEE-TYPE
+ : Shotgun
+DTSTART;TZID=America/New_York:20240615T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: *SC* US OPEN- Individual Net Flighted-MAJOR
+URL:https://www.brickshiregolfleagues.com
+UID:e8a680cd-c80c-480b-921d-41074eb9e6ae
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:da90d12b-a699-41e9-a959-95e980602da6
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240622T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Brickshire Cup(tentative-AWAITNG BLGA INPUT)
+URL:https://www.brickshiregolfleagues.com
+UID:a2f9f6e7-6d20-4678-9126-79669ab8a6f3
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:ab98bda6-f9a1-4ee9-b434-4594b56b265d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240629T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: The Train- Redemption Railroad (chance of regaining pts w bir
+ die)
+URL:https://www.brickshiregolfleagues.com
+UID:422e4b94-d131-41f9-8db7-82000e2e43f3
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:5578b62d-f6dc-44db-aecb-1574e85fc6b1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240706T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Revolution Rumble--Individual Match Play 3 of 4
+URL:https://www.brickshiregolfleagues.com
+UID:4b9d85d0-cb85-4f23-b1aa-6f443848b62c
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:446716d7-78d8-43d8-b192-ab945017fd15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240713T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:7a43e189-0867-4791-ad17-436bcd2f7367
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:8cea6646-9de1-4a6f-8721-ebfd7b7aa2a4
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $10.00. \nTEE-TYPE
+ : Shotgun
+DTSTART;TZID=America/New_York:20240727T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Triple Crown Day 1 (2 Man Shamble)
+URL:https://www.brickshiregolfleagues.com
+UID:0f56fc6f-2834-47f6-a2d1-b65b29ec4114
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:b22a3e5c-294f-40e4-9035-f9c9722b0586
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240803T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:f43dd130-a1e3-402c-a388-17bab21206d5
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:8c822370-35b5-4ac7-a5b5-3e56f5ae6833
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240810T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Individual Net Flighted
+URL:https://www.brickshiregolfleagues.com
+UID:3bd6afd1-e182-4b61-a2be-33023e325518
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:b671cc2c-a3e8-4080-9c29-eebcc3f2383b
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $10.00. \nTEE-TYPE
+ : Shotgun
+DTSTART;TZID=America/New_York:20240817T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: *SC* Triple Crown Day 2 (2 Man BB)- MAJOR
+URL:https://www.brickshiregolfleagues.com
+UID:dbcb0759-f8a4-4213-bcaa-ac75142d4f45
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:8794ab3b-de08-46ae-89e8-84905a54b153
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240824T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Brickshire Cup Alternate Date
+URL:https://www.brickshiregolfleagues.com
+UID:02aa3cf3-ba6d-4d20-a4c3-bf1f516c325c
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:f99ac5ad-5cb3-45ef-8e4d-b2a26206ab78
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240831T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:6d7d4cc7-4ea4-437d-b7c4-5148760db02b
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:e927499d-0fca-4b4d-87a1-eb78501e9af8
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $10.00. \nTEE-TYPE
+ : Shotgun
+DTSTART;TZID=America/New_York:20240907T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: *SC* Triple Crown - Day 3 - 2 Man Combined Net- MAJOR
+URL:https://www.brickshiregolfleagues.com
+UID:4998b1e6-dd2f-4cdc-8cb3-c3503c326e3f
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:fa7d8786-4167-49ed-87f6-7ded3a6a41db
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240914T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:8b7e747d-393b-4377-9acd-6880d59f2bb3
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:2be75dec-9ca6-46e1-b296-398343d86e62
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20240921T080000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Scramble(Possible King of The Hill)
+URL:https://www.brickshiregolfleagues.com
+UID:f8e613a0-f327-4df7-9dea-a50b498da11b
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:1c0c30fa-44a2-44a4-b69c-33630dc3b6a7
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20241005T083000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Beat the Pro
+URL:https://www.brickshiregolfleagues.com
+UID:94ced0a2-86f8-445a-b074-d303d9c49603
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:12a6a73b-358b-4971-99ca-2010d26aa7a7
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $0.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20241012T090000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Brickshire-Stonehouse Matches #1 at Stonehouse
+URL:https://www.brickshiregolfleagues.com
+UID:e93fe05b-8a3f-42ca-91ff-cefee14f5d48
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:442058d2-0e8c-4f92-899e-9755b2bb8b49
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $0.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20241019T090000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Brickshire-Stonehouse Matches #2 at Brickshire
+URL:https://www.brickshiregolfleagues.com
+UID:99d7aa25-0b66-42af-985e-95d5ff26c5e6
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:f14a8ed1-bbfa-447f-8c6d-e5aed8fa6438
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $10.00. \nTEE-TYPE
+ : Shotgun
+DTSTART;TZID=America/New_York:20241026T083000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: *SC* SHIRE CUP CHAMPIONSHIP- Individual Stroke Play-MAJOR
+URL:https://www.brickshiregolfleagues.com
+UID:e9b85fcb-227b-492f-bfda-79b40b63f27d
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:ab513af9-bfd8-47b6-ba19-61c552499204
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20241102T090000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:d9fc17d1-ac21-4f09-bb35-840c3c365956
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:8cb3745d-216f-4bcb-a248-632e2055e9e4
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20241109T090000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:ebe56d81-4ab7-49e3-8c01-a8e004f0e2ac
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:5de1ab2a-253a-44dd-bfdf-1d207ab80d97
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20241116T090000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:84944b46-36d1-4062-9a07-0d1ac6c556fb
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:4a793cf1-1d33-4f36-926a-c1fea9aa98a8
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20241123T090000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: TBD
+URL:https://www.brickshiregolfleagues.com
+UID:a82f37d0-3601-4af4-8de4-5b076a10cfed
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:bda58063-5c0d-4bd0-a042-5e34245ac945
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $0.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20241130T090000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Post Turkey Day Scramble
+URL:https://www.brickshiregolfleagues.com
+UID:5353c8a0-968b-41b3-ae7c-de02d1d43e52
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:8023f8ce-5d47-47ca-ac06-311965ba4969
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240207T215058Z
+DESCRIPTION:Be on the practice putting green 15 minutes before tee time.  H
+ ave events exact cash ready to give organizers. \nCOST: $7.00. \nTEE-TYPE: 
+ Shotgun
+DTSTART;TZID=America/New_York:20241207T093000
+DURATION:PT5H
+LOCATION:5520 Virginia Park Dr, Providence Forge, VA 23140-3475
+SUMMARY:BMGL: Polar Express Train w REDEMPTION
+URL:https://www.brickshiregolfleagues.com
+UID:312b326b-e786-463f-b896-9da78924e9b0
+BEGIN:VALARM
+DTSTAMP:20240207T215058Z
+ACTION:DISPLAY
+DESCRIPTION:BMGL Saturday Event!  Get yo golf on!
+DURATION:PT60S
+REPEAT:0
+TRIGGER:-PT1800S
+UID:55a69276-7bf0-4e86-afe8-46f0eb78b7ed
+END:VALARM
+END:VEVENT
+END:VCALENDAR
