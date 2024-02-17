@@ -40,11 +40,34 @@
 
         .container {
             background-color: #000000;
-            padding: 110px 10px 190px;
+            padding: 100px 15px 50px;
         }
 
         .row h4 {
             color: rgb(255, 215, 0);
+        }
+
+        .h1 {
+            color: rgb(255, 215, 0);
+        }
+
+        #topWinners ul {
+            list-style-type: none;
+            padding: 0;
+            text-align: center;
+        }
+
+        #topWinners li {
+            font-family: cursive;
+            color: white;
+            font-size: 32px;
+        }
+
+        #topWinners h1 {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            color: rgb(40, 2, 255);
+            font-size: 32px;
+            text-align: center;
         }
     </style>
 </head>
@@ -82,7 +105,29 @@
     </nav>
 
     <!-- content -->
-    <div class="container">
+
+    <div class="container" id="winnerList">
+
+        <h1>winners</h1>
+
+
+    </div>
+
+    <div class="container" id="topWinners">
+
+        <h1>winners</h1>
+
+
+    </div>
+
+    <!-- <div class="container" id="topWinners">
+
+
+        <h1>winnerList</h1>
+
+    </div> -->
+
+    <div class="container" id="pid">
         <div class="row">
             <div class="col">
                 <h1 class="text-center">BMGL Trophy</h1>
@@ -93,7 +138,11 @@
             <div class="col text-center">
                 <img src="images/OIG4.4V1r_9OWONUU._A6iAIP.jpeg" alt="Golf Course Image" style="max-width: 100%;">
             </div>
+
+
+
         </div>
+
         <div class="row mt-5">
             <div class="col text-center">
                 <h2>The <div id="date"></div>
@@ -106,11 +155,20 @@
                 <h3 id="winnerName">
 
                 </h3>
+
             </div>
 
         </div>
+    </div>
+
+
+
 
     </div>
+
+
+
+
 
     <!-- end content -->
 
