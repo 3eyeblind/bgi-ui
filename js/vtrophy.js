@@ -111,6 +111,7 @@ const pid = Number(urlParams.get('id'));
 
 if (pid) {
     document.getElementById("winnerList").setAttribute("hidden", "");
+    document.getElementById("topWinners").setAttribute("hidden", "");
     loadTrophy(pid);
 } else {
     document.getElementById("pid").setAttribute("hidden", "");
