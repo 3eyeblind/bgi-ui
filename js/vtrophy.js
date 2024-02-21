@@ -1,30 +1,31 @@
-const trophy_data = [
+const test_trophy_data = [
     {
         "id": 100,
         "event": "DUST THE RUST- 2 MAN BEST BALL",
-        "winners": ["joe", "logan", "Fallon"],
+        "winners": ["TBD", "TBD"],
         "date": "2024-03-09"
     },
     {
         "id": 101,
         "event": "TBD",
-        "winners": ["joseph", "logany"],
+        "winners": ["TBD", "TBD"],
         "date": "2024-03-16"
     },
     {
         "id": 102,
         "event": "TBD",
-        "winners": ["joseph", "logan", "Fallon"],
+        "winners": ["TBD", "TBD"],
         "date": "2024-03-30"
     },
     {
         "id": 103,
         "event": "TBD- EARLY START 7:30AM",
-        "winners": ["joseph", "logany"],
+        "winners": ["TBD", "TBD"],
         "date": "2024-04-06"
     }
 ];
-
+const real_trophy_data = [];
+const trophy_data = test_trophy_data;
 function loadTrophy(pid) {
     let trophy;
     if (pid) {
