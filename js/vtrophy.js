@@ -2,38 +2,63 @@ const test_trophy_data = [
     {
         "id": 100,
         "event": "DUST THE RUST- 2 MAN BEST BALL",
-        "winners": ["TBD", "TBD"],
+        "winners": [100, 101],
         "date": "2024-03-09"
     },
     {
         "id": 101,
         "event": "TBD",
-        "winners": ["TBD", "TBD"],
+        "winners": [100, 102],
         "date": "2024-03-16"
     },
     {
         "id": 102,
         "event": "TBD",
-        "winners": ["TBD", "TBD"],
-        "date": "2024-03-30"
+        "winners": [101],
+        "date": "2024-03-30",
+        "boolean": true
     },
     {
         "id": 103,
         "event": "TBD- EARLY START 7:30AM",
         "winners": ["TBD", "TBD"],
-        "date": "2024-04-06"
+        "date": "2024-04-06",
+        "boolean": false
     }
 ];
 const real_trophy_data = [];
 const trophy_data = test_trophy_data;
+const members = [
+    {
+        "id": 100,
+        "name": "Joe",
+        "email": "joe@closet6.com"
+    },
+    {
+        "id": 101,
+        "name": "Logan",
+        "email": "joe@closet7.com"
+    },
+    {
+        "id": 102,
+        "name": "Rick",
+        "email": "joe@closet8.com"
+    }
+];
+
+
+
 function loadTrophy(pid) {
     let trophy;
     if (pid) {
         trophy = trophy_data.find(t => t.id === pid);
         // set winner name
         let winnerstr = "";
-        for (winner of trophy.winners) {
-            winnerstr = winnerstr + " " + winner;
+        for (const winnerId of trophy.winners) {
+            const winner = members.find(member => member.id === winnerId);
+            if (winner) {
+                winnerstr += winner.name + " ";
+            }
         }
         let domq = document.getElementById("winnerName");
         domq.innerHTML = winnerstr;
@@ -54,6 +79,8 @@ function loadTrophy(pid) {
 }
 
 
+
+
 function listAllTrophies() {
     let htmlTable = `<h1 style="color: gold; text-align: center;">BGML Event Winners</h1>
     <table class="table">
@@ -66,17 +93,23 @@ function listAllTrophies() {
     </thead>
     <tbody>`;
 
-
     trophy_data.sort((a, b) => new Date(b.date) - new Date(a.date));
 
     trophy_data.forEach(trophy => {
         const eventDate = new Date(trophy.date);
-        let winnerstr = trophy.winners.join(", ");
+        let winnerNames = "";
+        for (const winnerId of trophy.winners) {
+            const winner = members.find(member => member.id === winnerId);
+            if (winner) {
+                winnerNames += winner.name + ", ";
+            }
+        }
+        winnerNames = winnerNames.slice(0, -2);
         htmlTable += `
             <tr>
                 <td>${eventDate.toDateString()}</td>
                 <td>${trophy.event}</td>
-                <td>${winnerstr}</td>
+                <td>${winnerNames}</td>
             </tr>`;
     });
 
@@ -85,6 +118,8 @@ function listAllTrophies() {
 
     document.getElementById("winnerList").innerHTML = htmlTable;
 }
+
+
 
 function displayTopWinners(winners) {
     // Count occurrences of each winner
